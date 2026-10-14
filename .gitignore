@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Local data
+.cache/
+pdf/
+*.pkl
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
